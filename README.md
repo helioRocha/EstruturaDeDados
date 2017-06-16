@@ -1,3 +1,3 @@
 # Estruturas De Dados
 # & 
-# Algorimtos em Java
+# Algoritmos em Java
